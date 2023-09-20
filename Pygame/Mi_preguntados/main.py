@@ -5,6 +5,16 @@ from datos import lista_preguntas
 
 pygame.init()
 
+
+
+
+
+
+
+
+
+
+
 color_rectangulo_pregunta = COLOR_AMARILLO
 color_rectangulo_reiniciar = COLOR_AMARILLO
 puntaje = 0
